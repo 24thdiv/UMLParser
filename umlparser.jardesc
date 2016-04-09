@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/divya/Desktop/UMLParser/umlparser.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/UMLParser/umlparser.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=UMLParser/src&lt;com{umlparser.java[umlparser" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/UMLParser/.classpath"/>
+        <folder path="/UMLParser/Test1"/>
+        <folder path="/UMLParser/Test2"/>
+        <folder path="/UMLParser/Test3"/>
+        <folder path="/UMLParser/Test4"/>
+        <folder path="/UMLParser/Test5"/>
+        <file path="/UMLParser/.project"/>
+        <javaElement handleIdentifier="=UMLParser/src"/>
+    </selectedElements>
+</jardesc>
